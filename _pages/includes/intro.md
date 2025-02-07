@@ -1,4 +1,1 @@
-I'm a researcher in the field of software engineering. I mainly focus on software testing. I have successfully found more than 20 bugs in PDF readers such as Adobe Acrobat Reader and Foxit PDF Reader and and have assisted developers in fixing them. I hope I can help developers to write more secure code.
-
-
-<span style="color: red;">I'm going to UC Santa Barbara for my PhD degree.</span>
+I'm a PhD student at UCSB <a href="https://seclab.cs.ucsb.edu/members/">SecLab</a>, advised by <a href="https://sites.cs.ucsb.edu/~vigna/">Prof. Giovanni Vigna</a> and <a href="https://sites.cs.ucsb.edu/~chris/">Prof. Christopher Kruegel</a>. My research mainly focus on improving software quality. I have successfully found more than 20 bugs in PDF readers such as Adobe Acrobat Reader and Foxit PDF Reader and and have assisted developers in fixing them. Additionally, I participated in CTFs as a member of <a href="https://shellphish.net/">Shellphish</a>.
