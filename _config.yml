@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Suyue Guo"
-description              : "Incoming PhD student at UC Santa Barbara."
+description              : "CS PhD student at Seclab, UC Santa Barbara."
 repository               : "SuyueGuo/SuyueGuo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Suyue Guo"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Renmin University of China"
-  location         : "Beijing, China"
+  bio              : "University of California, Santa Barbara"
+  location         : "Santa Barbara, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=w_gy-voAAAAJ"
-  email            : "guosuyue@ruc.edu.cn"
+  email            : "sguo568 At ucsb dot edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
