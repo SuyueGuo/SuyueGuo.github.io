@@ -1,5 +1,14 @@
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/devops_gym.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DevOps-Gym: Benchmarking AI Agents in Software DevOps Cycle](https://openreview.net/forum?id=devops-gym) \\
+Yuheng Tang, Kaijie Zhu, Bonan Ruan, Chuqi Zhang, Michael Yang, Hongwei Li, **Suyue Guo**, Tianneng Shi, Zekun Li, Christopher Kruegel, Giovanni Vigna, Dawn Song, William Yang Wang, Lun Wang, Yangruibo Ding, Zhenkai Liang, Wenbo Guo
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE 2023</div><img src='images/typeoracle_workflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
