@@ -1,5 +1,14 @@
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2026</div><img src='images/pdfzzer_overview.png' alt="PDFuzzer overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[From Documentation to Zero-day Vulnerabilities: LLM-Driven Fuzzing of JavaScript Engines in PDF Readers](https://arxiv.org/abs/2608.06641) \\
+**Suyue Guo**, Stijn Pletinckx, Tianle Yu, Yigitcan Kaya, Saad Ullah, Wenbo Guo, Christopher Kruegel, Giovanni Vigna
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/devops_gym.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
